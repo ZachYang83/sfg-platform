@@ -1,0 +1,38 @@
+2022-12-12 00:01:48 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2022-12-12 00:01:48 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2022-12-12 00:01:53 [restartedMain] INFO  c.g.gpplatform.GpPlatformApplication - Starting GpPlatformApplication using Java 1.8.0_202 on DESKTOP-N2JHJL9 with PID 3648 (C:\Users\Administration\Desktop\sfg-platform\target\classes started by Administration in C:\Users\Administration\Desktop\sfg-platform)
+2022-12-12 00:01:53 [restartedMain] INFO  c.g.gpplatform.GpPlatformApplication - No active profile set, falling back to default profiles: default
+2022-12-12 00:01:54 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2022-12-12 00:01:54 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-12-12 00:01:54 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2022-12-12 00:01:54 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-12-12 00:01:56 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2022-12-12 00:01:56 [restartedMain] INFO  c.g.gpplatform.GpPlatformApplication - Started GpPlatformApplication in 2.917 seconds (JVM running for 3.647)
+2022-12-12 00:02:02 [http-nio-8090-exec-3] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-12 00:02:02 [http-nio-8090-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - <0><11783275969741121> <0><11783275969741121> HikariPool-1 - Starting...
+2022-12-12 00:02:02 [http-nio-8090-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - <0><11783275969741121> <0><11783275969741121> HikariPool-1 - Start completed.
+2022-12-12 18:22:59 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2022-12-12 18:22:59 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2022-12-12 18:27:07 [restartedMain] INFO  c.g.gpplatform.GpPlatformApplication - Starting GpPlatformApplication using Java 1.8.0_202 on DESKTOP-N2JHJL9 with PID 14392 (C:\Users\Administration\Desktop\sfg-platform\target\classes started by Administration in C:\Users\Administration\Desktop\sfg-platform)
+2022-12-12 18:27:07 [restartedMain] INFO  c.g.gpplatform.GpPlatformApplication - No active profile set, falling back to default profiles: default
+2022-12-12 18:27:09 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2022-12-12 18:27:09 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-12-12 18:27:09 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2022-12-12 18:27:09 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-12-12 18:27:10 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2022-12-12 18:27:10 [restartedMain] INFO  c.g.gpplatform.GpPlatformApplication - Started GpPlatformApplication in 3.147 seconds (JVM running for 3.945)
+2022-12-12 18:31:06 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-12 18:31:06 [http-nio-8090-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - <0><11787637020459328> <0><11787637020459328> HikariPool-1 - Starting...
+2022-12-12 18:31:07 [http-nio-8090-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - <0><11787637020459328> <0><11787637020459328> HikariPool-1 - Start completed.
+2022-12-12 20:49:28 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - <0><11787637020459328> <0><11787637020459328> HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=49s341ms63µs500ns).
+2022-12-12 22:06:41 [restartedMain] INFO  c.g.gpplatform.GpPlatformApplication - Starting GpPlatformApplication using Java 1.8.0_202 on DESKTOP-N2JHJL9 with PID 7716 (C:\Users\Administration\Desktop\sfg-platform\target\classes started by Administration in C:\Users\Administration\Desktop\sfg-platform)
+2022-12-12 22:06:41 [restartedMain] INFO  c.g.gpplatform.GpPlatformApplication - No active profile set, falling back to default profiles: default
+2022-12-12 22:06:43 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2022-12-12 22:06:43 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-12-12 22:06:43 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+2022-12-12 22:06:43 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-12-12 22:06:44 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2022-12-12 22:06:44 [restartedMain] INFO  c.g.gpplatform.GpPlatformApplication - Started GpPlatformApplication in 3.521 seconds (JVM running for 4.493)
+2022-12-12 22:06:50 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-12 22:06:50 [http-nio-8090-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - <0><11788485305991488> <0><11788485305991488> HikariPool-1 - Starting...
+2022-12-12 22:06:50 [http-nio-8090-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - <0><11788485305991488> <0><11788485305991488> HikariPool-1 - Start completed.
